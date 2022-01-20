@@ -1,0 +1,19 @@
+{
+  "name": "district5/formatter",
+  "description": "District5 Formatter Library",
+  "keywords": ["php", "district5", "formatter"],
+  "homepage": "https://github.com/district-5/php-formatter",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "District5",
+      "email": "hello@district5.co.uk"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": { "District5\\Formatter\\": "src/Formatter/" }
+  }
+}
