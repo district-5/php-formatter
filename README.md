@@ -9,7 +9,7 @@ composer require district5/formatter
 
 ## Usage
 ### Using a formatter
-Utility middleware classes are included for the following areas of functionality:
+Calling a formatter can be done with a single line of code:
 ```php
 // single object for format
 $formatted = MyFormatter::formatSingle($model);
