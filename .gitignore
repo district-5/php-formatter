@@ -1,6 +1,6 @@
-build/*
-vendor/*
+build
 .DS_Store
 .idea
+vendor
 composer.lock
-phpunit.xml
+.phpunit.*
